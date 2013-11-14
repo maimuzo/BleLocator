@@ -5,6 +5,8 @@ Location service using Bluetooth 4.0 Low Energy(BLE)
 
 Prerequisites:
   Linux(Ubuntu 13.10)
+  node.js
+  noble https://github.com/sandeepmistry/noble
 
 INSTALL:
   sudo apt-get install libbluetooth-dev nodejs npm
